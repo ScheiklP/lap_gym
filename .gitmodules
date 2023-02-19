@@ -1,0 +1,9 @@
+[submodule "sofa_env"]
+	path = sofa_env
+	url = https://github.com/ScheiklP/sofa_env.git
+[submodule "sofa_godot"]
+	path = sofa_godot
+	url = https://github.com/ScheiklP/sofa_godot.git
+[submodule "sofa_zoo"]
+	path = sofa_zoo
+	url = https://github.com/ScheiklP/sofa_zoo.git
