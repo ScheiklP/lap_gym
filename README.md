@@ -7,7 +7,7 @@ This is the meta-repository of the project "LapGym - An Open Source Framework fo
 It contains the following submodules:
 
 - [sofa_env](https://github.com/ScheiklP/sofa_env): Defines reinforcement learning environments for robot-assisted surgery.
-- [sofa_godot](https://github.com/ScheiklP/sofa_godot): Provides a Godot plugin to visually createn new SOFA scenes.
+- [sofa_godot](https://github.com/ScheiklP/sofa_godot): Provides a Godot plugin to visually create new SOFA scenes.
 - [sofa_zoo](https://github.com/ScheiklP/sofa_zoo): Provides the code for the reinforcement learning experiments described in [LapGym paper]()
 
 Please refer to the individual submodels and the [LapGym paper]() for more information.
